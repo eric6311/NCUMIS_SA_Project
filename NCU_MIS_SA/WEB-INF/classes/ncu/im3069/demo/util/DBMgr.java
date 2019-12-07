@@ -25,10 +25,10 @@ public class DBMgr {
     static final String DB_URL = "jdbc:mysql://localhost:3306/missa?allowPublicKeyRetrieval=true&useSSL=false";
 
     /** USER常數，所要使用之資料庫使用者帳號 */
-    static final String USER = "root";
+    static final String USER = "dabaoku";
 
     /** PASS常數，所有使用之資料庫使用者密碼 */
-    static final String PASS = "123456";
+    static final String PASS = "12345678";
 
     /** 靜態指定所要使用之Class名稱 **/
     static {
